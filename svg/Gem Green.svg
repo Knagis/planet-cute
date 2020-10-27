@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" width="101" height="171">
- <radialGradient id="a" cx="50.028" cy="130.722" r="50.314" gradientUnits="userSpaceOnUse">
+ <radialGradient id="a" cx="50%" cy="50%" r="50%">
   <stop offset=".532" stop-color="#9A2E00" stop-opacity=".714"/>
   <stop offset=".835" stop-color="#9A2E00" stop-opacity=".357"/>
   <stop offset="1" stop-color="#9A2E00" stop-opacity="0"/>
  </radialGradient>
  <ellipse fill="url(#a)" cx="50.028" cy="130.722" rx="50.222" ry="38.667"/>
- <radialGradient id="b" cx="50.514" cy="85.849" r="30.684" gradientUnits="userSpaceOnUse">
+ <radialGradient id="b" cx="50%" cy="50%" r="50%">
   <stop offset="0" stop-color="#44CB23"/>
   <stop offset=".511" stop-color="#5DE142"/>
   <stop offset="1" stop-color="#77F761"/>
@@ -86,13 +86,13 @@
   <stop offset="1" stop-color="#FFF"/>
  </linearGradient>
  <path fill="url(#m)" stroke-linejoin="round" stroke="#FFEEA1" stroke-opacity=".396" d="M28.557 58.917L3.445 79.527l29.413-11.213-4.3-9.397z"/>
- <radialGradient id="n" cx="50.913" cy="114.275" r="45.087" gradientUnits="userSpaceOnUse">
+ <radialGradient id="n" cx="50%" cy="50%" r="50%">
   <stop offset=".21" stop-color="#047273" stop-opacity=".49"/>
   <stop offset=".722" stop-color="#816F50" stop-opacity=".247"/>
   <stop offset="1" stop-color="#FF6C2E" stop-opacity="0"/>
  </radialGradient>
  <ellipse fill="url(#n)" cx="50.913" cy="114.275" rx="45.005" ry="42.889"/>
- <radialGradient id="o" cx="38.752" cy="78.718" r="40.796" gradientUnits="userSpaceOnUse">
+ <radialGradient id="o" cx="50%" cy="50%" r="50%">
   <stop offset="0" stop-color="#F2FF86" stop-opacity=".537"/>
   <stop offset=".648" stop-color="#F2FF86" stop-opacity=".271"/>
   <stop offset="1" stop-color="#F2FF86" stop-opacity="0"/>
