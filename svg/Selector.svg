@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" width="101" height="171">
+ <path fill-opacity=".314" d="M49.907 150.649l7.455-9.838 11.66-4.05-7.052-10.131-.249-12.342-11.814 3.578-11.814-3.578-.249 12.342-7.053 10.131 11.66 4.05 7.456 9.838z"/>
+ <linearGradient id="a" gradientUnits="objectBoundingBox" x1=".51" y1=".271" x2="1.06" y2=".271" gradientTransform="rotate(90 .51 .271)">
+  <stop offset=".336" stop-color="#FEFE82"/>
+  <stop offset=".481" stop-color="#FCDD66"/>
+  <stop offset=".484" stop-color="#FABC4B"/>
+  <stop offset="1" stop-color="#FFF460"/>
+ </linearGradient>
+ <path fill="url(#a)" stroke-linejoin="round" stroke="#000" stroke-opacity=".557" d="M49.907 146.994l7.264-10.102 11.852-3.787-7.363-10.03.061-12.442-11.814 3.903-11.814-3.903.06 12.442-7.362 10.03 11.852 3.787 7.264 10.102z"/>
+ <linearGradient id="b" gradientUnits="objectBoundingBox" x1=".5" y1="0" x2="1.5" y2="0" gradientTransform="rotate(90 .5 0)">
+  <stop offset=".336" stop-color="#FEFE82" stop-opacity=".49"/>
+  <stop offset=".481" stop-color="#FCDD66" stop-opacity=".49"/>
+  <stop offset=".484" stop-color="#FABC4B" stop-opacity=".49"/>
+  <stop offset="1" stop-color="#FFF460" stop-opacity=".49"/>
+ </linearGradient>
+ <path fill="url(#b)" stroke-linejoin="round" stroke="#000" stroke-opacity=".557" d="M5.5 90.5h90a5 5 0 015 5v70a5 5 0 01-5 5h-90a5 5 0 01-5-5v-70a5 5 0 015-5zm5 10v60h80v-60h-80z"/>
+ <path fill="#FFFFCE" fill-opacity=".318" d="M25.5 150.5h50a5 5 0 005-5v-30a5 5 0 00-5-5h-50a5 5 0 00-5 5v30a5 5 0 005 5z"/>
+ <radialGradient id="c" cx="51.722" cy="111.75" r="201.616" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#FFFAB1" stop-opacity=".627"/>
+  <stop offset=".648" stop-color="#FFFCD8" stop-opacity=".314"/>
+  <stop offset="1" stop-color="#FFF" stop-opacity="0"/>
+ </radialGradient>
+ <path fill="url(#c)" d="M51.722.5C67.616.5 80.5.602 80.5 111.75c0 26.25-14.106 36.75-30 36.75s-27.556-10.154-27.556-36.75C22.944.602 35.83.5 51.722.5z"/>
+ <linearGradient id="d" gradientUnits="objectBoundingBox" x1=".501" y1="1.011" x2="1.509" y2="1.011" gradientTransform="rotate(-90 .501 1.011)">
+  <stop offset="0" stop-color="#FFF569" stop-opacity=".361"/>
+  <stop offset=".764" stop-color="#FFF569" stop-opacity=".184"/>
+  <stop offset="1" stop-color="#FFF569" stop-opacity="0"/>
+ </linearGradient>
+ <path fill="url(#d)" d="M5.5 170.5h90a5 5 0 005-5V5.5a5 5 0 00-5-5h-90a5 5 0 00-5 5v160a5 5 0 005 5z"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" width="101" height="171">
+ <radialGradient id="a" cx="50.338" cy="101.889" r="50.937" gradientUnits="userSpaceOnUse">
+  <stop offset="0" stop-color="#FFFD50" stop-opacity=".996"/>
+  <stop offset=".243" stop-color="#FFFD35" stop-opacity=".635"/>
+  <stop offset=".69" stop-color="#FFFD1A" stop-opacity=".271"/>
+  <stop offset=".758" stop-color="#FFFD17" stop-opacity=".29"/>
+  <stop offset=".88" stop-color="#FFFD13" stop-opacity=".161"/>
+  <stop offset=".919" stop-color="#FFFD09" stop-opacity=".082"/>
+  <stop offset="1" stop-color="#FFFD00" stop-opacity="0"/>
+ </radialGradient>
+ <circle fill="url(#a)" cx="50.338" cy="101.889" r="49.667"/>
+ <radialGradient id="c" cx="50.248" cy="91.453" r="43.389" gradientUnits="userSpaceOnUse" gradientTransform="rotate(66.054 50.248 91.453)">
+  <stop offset=".226" stop-color="#FFFD31" stop-opacity=".996"/>
+  <stop offset=".758" stop-color="#F4D719" stop-opacity=".996"/>
+  <stop offset="1" stop-color="#E9B101" stop-opacity=".996"/>
+ </radialGradient>
+ <radialGradient id="b" cx="50.248" cy="91.453" r="43.447" gradientUnits="userSpaceOnUse" gradientTransform="rotate(66.02 50.248 91.453)">
+  <stop offset="0" stop-color="#E7FF6F" stop-opacity=".996"/>
+  <stop offset=".569" stop-color="#F0C33A" stop-opacity=".996"/>
+  <stop offset="1" stop-color="#FA8706" stop-opacity=".996"/>
+ </radialGradient>
+ <path fill="url(#b)" stroke-width="2.926" stroke-linejoin="round" stroke="url(#c)" d="M69.306 132.357l-.83-22.349 15.18-16.424-21.512-6.117-10.929-19.513L38.75 86.523l-21.935 4.365 13.808 17.593-2.627 22.21 20.999-7.696 20.31 9.362z"/>
+ <radialGradient id="d" cx="50.056" cy="88.213" r="20.025" gradientUnits="userSpaceOnUse" gradientTransform="rotate(1.085 50.056 88.213)">
+  <stop offset="0" stop-color="#FFF" stop-opacity=".659"/>
+  <stop offset=".361" stop-color="#FFFE7F" stop-opacity=".329"/>
+  <stop offset=".801" stop-color="#FFFD00" stop-opacity="0"/>
+ </radialGradient>
+ <path fill="url(#d)" d="M50.3 68.69c7.108.088 12.762 8.901 12.628 19.684-.135 10.782-6.007 19.451-13.116 19.362-7.109-.089-12.763-8.901-12.628-19.684.134-10.782 6.006-19.45 13.115-19.362z"/>
+</svg>

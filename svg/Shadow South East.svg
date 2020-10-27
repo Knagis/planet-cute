@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" width="101" height="171">
+ <radialGradient id="a" cx="100.511" cy="130.495" r="49.999" gradientUnits="userSpaceOnUse" gradientTransform="rotate(180 100.511 130.495)">
+  <stop offset="0" stop-color="#0B0E36" stop-opacity=".282"/>
+  <stop offset=".431" stop-color="#05071B" stop-opacity=".141"/>
+  <stop offset="1" stop-opacity="0"/>
+ </radialGradient>
+ <path fill="url(#a)" d="M80.5 80.499h20v50h-20z"/>
+</svg>
