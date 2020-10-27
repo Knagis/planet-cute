@@ -1,10 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" width="101" height="171">
- <radialGradient id="a" cx="51.403" cy="139.638" r="37.846" gradientUnits="userSpaceOnUse">
+ <radialGradient id="a" cx="50%" cy="50%" r="50%">
   <stop offset="0" stop-opacity=".702"/>
   <stop offset=".648" stop-opacity=".353"/>
   <stop offset="1" stop-opacity="0"/>
  </radialGradient>
  <ellipse fill="url(#a)" cx="51.403" cy="139.638" rx="37.777" ry="21.679"/>
+ <radialGradient id="bN" cx="50%" cy="50%" r="50%">
+  <stop offset="0" stop-opacity=".463"/>
+  <stop offset=".648" stop-opacity=".231"/>
+  <stop offset="1" stop-opacity="0"/>
+ </radialGradient>
+ <ellipse fill="url(#bN)" cx="51.403" cy="139.638" rx="48.203" ry="27.662"/>
  <linearGradient id="b" gradientUnits="objectBoundingBox" x1=".36" y1=".099" x2="1.176" y2=".099" gradientTransform="rotate(95.105 .36 .1)">
   <stop offset="0" stop-color="#1B3816"/>
   <stop offset=".532" stop-color="#577F24"/>
@@ -858,10 +864,4 @@
   <stop offset=".991" stop-color="#C5FF54"/>
  </linearGradient>
  <path fill="url(#bM)" d="M50.026 48.05c-8.585 4.436-5.547-5.618-5.547-5.618s13.57.726 5.547 5.617z"/>
- <radialGradient id="bN" cx="51.403" cy="139.638" r="48.291" gradientUnits="userSpaceOnUse">
-  <stop offset="0" stop-opacity=".463"/>
-  <stop offset=".648" stop-opacity=".231"/>
-  <stop offset="1" stop-opacity="0"/>
- </radialGradient>
- <ellipse fill="url(#bN)" cx="51.403" cy="139.638" rx="48.203" ry="27.662"/>
 </svg>
