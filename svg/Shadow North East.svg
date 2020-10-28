@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" baseProfile="full" width="101" height="171">
- <radialGradient id="a" cx="100.511" cy="50.504" r="49.999" gradientUnits="userSpaceOnUse" gradientTransform="rotate(180 100.511 50.504)">
+ <radialGradient id="a" cx="100%" cy="0%" r="100%">
   <stop offset="0" stop-color="#0B0E36" stop-opacity=".322"/>
   <stop offset=".459" stop-color="#05071B" stop-opacity=".161"/>
   <stop offset="1" stop-opacity="0"/>
